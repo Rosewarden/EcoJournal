@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+nav{
+  background: #138477;
+  height: 10vh;
+}
+
+.logo{
+  height: 10vh;
+  width: 10vh;
+}
